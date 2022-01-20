@@ -1,0 +1,140 @@
+.body {
+    background-color: black;
+    width: 1910px;
+    height: 935px;
+    margin: 0;
+
+}
+
+.grid {
+    display: flex;
+    width: 1037px;
+    height: 920px;
+    position: relative;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section {
+    display: flex;
+}
+
+
+.fundo {
+    width: 1030px;
+    height: 920px;
+}
+
+.logo {
+    width: 359px;
+    height: 292px;
+    position: absolute;
+}
+
+.logo2 {
+    width: 50px;
+    height: 40px;
+    position: absolute;
+
+}
+
+.second {
+    width: 650px;
+    height: 681px;
+    padding: 20px;
+    margin-top: 140px;
+    color: silver;
+    padding-left: 40px;
+}
+
+.h1 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.buttom {
+    background-color: white;
+    align-self: center;
+    padding: 8px 20px;
+    border-radius: 20px;
+    width: 236px;
+    height: 24px;
+    text-align: center;
+}
+
+.a {
+    color: black;
+    text-decoration: none;
+    top: auto;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.google {
+    width:20px;
+    height:20px;
+}
+
+
+
+.hr {
+    width: 133px;
+    margin-left: initial;
+    margin-right: 0px;
+    display: inline-block;
+    font-size: x-small;
+    border-color: dimgray;
+}
+
+.buttom2 {
+    background-color: rgb(29, 155, 240);
+    align-self: center;
+    padding: 8px 20px;
+    border-radius: 20px;
+    width: 236px;
+    height: 24px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.b {
+    text-decoration: none;
+    color: white;
+}
+
+.p {
+    font-size: 12px;
+    color: rgb(110, 118, 125);
+}
+
+.termos {
+    color: rgb(29, 155, 240);
+    text-decoration: none;
+}
+
+.conta {
+    font-size: 20px;
+}
+
+.buttom3 {
+    background-color: rgb(0, 0, 0);
+    align-self: center;
+    padding: 8px 20px;
+    border-radius: 20px;
+    border: 1px solid #485262;;
+    width: 236px;
+    height: 24px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.c {
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+}
